@@ -47,5 +47,5 @@ This is a simple tool to download Instagram Reels, Photos, and Videos directly t
 ---
 
 ## Credits
-**Created by**: Afroz Alam
-**Contact Email**: [httppirate@protonmail.com](mailto:httppirate@protonmail.com)
+* **Created by**: Afroz Alam
+* **Contact Email**: [httppirate@protonmail.com](mailto:httppirate@protonmail.com)
